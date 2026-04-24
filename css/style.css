@@ -1,18 +1,18 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Times New Roman", Times, serif;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #99cbf5;
+  background-color: #9bccf3;
   color: #ffffff;
   padding: 20px;
   text-align: center;
 }
 
 nav {
-  background-color: #86c1c9;
+  background-color: #80bffa;
   padding: 10px;
   text-align: center;
 }
@@ -23,6 +23,10 @@ nav a {
   margin: 0 10px;
 }
 
+nav a:hover {
+  text-decoration: underline;
+}
+
 main {
   padding: 20px;
 }
@@ -30,16 +34,28 @@ main {
 #sobre-mim {
   background-color: #ffffff;
   padding: 15px;
-  border: 1px solid #58d8ff;
+  border: 3px double #5bc5f7;
+}
+#gostos {
+  background-color: #ffffff;
+  padding: 15px;
+  border: 3px double #5bc5f7;
+}
+#contato {
+  background-color: #ffffff;
+  padding: 15px;
+  border: 3px double #5bc5f7;
 }
 
 section {
   margin-bottom: 30px;
-  padding: 15px;
-  border: 1px solid #ccc;
+  padding: 20px;
+  border: 3px double #ccc;
+  border-radius: 10px;
 }
+
 footer {
-  background-color: #99cbf5;
+  background-color: #aad9ff;
   color: #ffffff;
   text-align: center;
   padding: 15px;
