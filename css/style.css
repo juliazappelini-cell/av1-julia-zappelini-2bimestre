@@ -5,14 +5,14 @@ body {
 }
 
 header {
-  background-color: #9bccf3;
+  background-color: #7c0707;
   color: #ffffff;
   padding: 20px;
   text-align: center;
 }
 
 nav {
-  background-color: #80bffa;
+  background-color: #000000;
   padding: 10px;
   text-align: center;
 }
@@ -31,20 +31,20 @@ main {
   padding: 20px;
 }
 
-#sobre-mim {
+#sobre {
   background-color: #ffffff;
   padding: 15px;
-  border: 3px double #5bc5f7;
+  border: 3px double #921111;
 }
-#gostos {
+#enredo {
   background-color: #ffffff;
   padding: 15px;
-  border: 3px double #5bc5f7;
+  border: 3px double #990909;
 }
-#contato {
+#Gênero {
   background-color: #ffffff;
   padding: 15px;
-  border: 3px double #5bc5f7;
+  border: 3px double #a30d0d;
 }
 
 section {
@@ -55,7 +55,7 @@ section {
 }
 
 footer {
-  background-color: #aad9ff;
+  background-color: #010d18;
   color: #ffffff;
   text-align: center;
   padding: 15px;
