@@ -50,12 +50,12 @@ main {
 section {
   margin-bottom: 30px;
   padding: 20px;
-  border: 3px double #ccc;
+  border: 3px double #4e0505;
   border-radius: 10px;
 }
 
 footer {
-  background-color: #010d18;
+  background-color: #000000;
   color: #ffffff;
   text-align: center;
   padding: 15px;
