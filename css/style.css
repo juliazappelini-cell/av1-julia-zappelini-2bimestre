@@ -57,6 +57,25 @@ section {
 footer {
   background-color: #000000;
   color: #ffffff;
-  text-align: center;
+  text-align: left;
   padding: 15px;
+}
+
+.item-galeria {
+  width: 30%;
+  display: inline-block;
+  margin: 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.item-galeria img {
+  width: 300%;
+  height: 400px;
+  object-fit: contain;
+}
+
+.item-galeria p {
+  text-align: left;
+  margin-top: 10px;
 }
